@@ -1,0 +1,11 @@
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\bin\Debug\UI_Redesign.exe.config
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\bin\Debug\UI_Redesign.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\bin\Debug\UI_Redesign.pdb
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\obj\Debug\UI_Redesign.LoginWindow.resources
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\obj\Debug\UI_Redesign.Properties.Resources.resources
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\obj\Debug\UI_Redesign.csproj.GenerateResource.Cache
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\obj\Debug\UI_Redesign.exe
+C:\Users\Michael\AppData\Local\Temporary Projects\UI_Redesign\obj\Debug\UI_Redesign.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\UI_Redesign\UI_Redesign\bin\Debug\UI_Redesign.exe.config
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\UI_Redesign\UI_Redesign\obj\Debug\UI_Redesign.exe
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\UI_Redesign\UI_Redesign\obj\Debug\UI_Redesign.pdb
